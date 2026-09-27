@@ -1,1 +1,5 @@
+
 Hello from master
+
+Hello from feature
+git add conflict.txt
